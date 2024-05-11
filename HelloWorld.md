@@ -1,1 +1,0 @@
-Sistema consultor de gastos
